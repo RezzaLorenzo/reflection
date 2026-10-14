@@ -1,0 +1,5 @@
+console.log("Reflection on Intramurals 2026 My experience during Intramurals 2026 was fun, exciting, and memorable. I enjoyed cheering for the players and watching the different games. Even though I was not one of the players, I still felt happy because I was able to support my classmates and schoolmates by cheering for them.
+
+While watching the games, I learned the importance of teamwork, sportsmanship, cooperation, and determination. I saw how the players did their best to win and how their teammates encouraged one another. The event also gave me a chance to bond with my friends and enjoy the activities at school.
+
+Overall, Intramurals 2026 was a wonderful experience for me. I realized that participating in school events does not always mean playing in the games. Cheering for others and showing support are also important ways to participate. I will always remember this experience because it brought happiness, excitement, and unity to our school");
